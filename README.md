@@ -14,7 +14,7 @@ $ apt-get upgrade -y
 
 $ pkg install mpv -y
 
-$ git clone https://github.com/OnlineHacKing/Welcome.git
+$ git clone https://github.com/Theynosh/welcome
 
 $ cd welcome
 
